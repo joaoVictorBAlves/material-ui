@@ -35,7 +35,7 @@ const Create = () => {
                 style={{ marginInline: "5px" }}
                 endIcon={<SendIcon />}
             >
-                Secondary
+                Second
             </Button>
         </Container>
     );
